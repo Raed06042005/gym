@@ -1,0 +1,19 @@
+body { background: url('https://t3.ftcdn.net/jpg/08/27/87/60/360_F_827876077_k0EWo3jSiWZPR8fRgsSbZFT9SkrozNuj.jpg') no-repeat center center/cover; height: 100vh; display: flex; align-items: center; justify-content: center; color: #fff; }
+
+.container { background: rgba(0, 0, 0, 0.75); padding: 50px; border-radius: 10px; width: 90%; max-width: 400px; }
+
+h1 { text-align: center; margin-bottom: 20px; color: #ffcc00; }
+
+.form-box { display: flex; flex-direction: column; }
+
+.form-box h2 { margin-bottom: 15px; text-align: center; }
+
+input { padding: 10px; margin-bottom: 15px; border: none; border-radius: 5px; }
+
+button { padding: 10px; background: #ffcc00; border: none; border-radius: 5px; color: #000; font-weight: bold; cursor: pointer; transition: background 0.3s; }
+
+button:hover { background: #e6b800; }
+
+a { color: #ffcc00; text-decoration: none; } a:hover { text-decoration: underline; }
+
+p { text-align: center; font-size: 0.9em; }
